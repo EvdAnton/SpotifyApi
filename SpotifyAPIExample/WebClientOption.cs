@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp3
+﻿namespace SpotifyAPIExample
 {
     public class WebClientOption
     {

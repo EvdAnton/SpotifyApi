@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Net;
 
-namespace ConsoleApp3
+namespace SpotifyAPIExample
 {
     public class WebClient
     {

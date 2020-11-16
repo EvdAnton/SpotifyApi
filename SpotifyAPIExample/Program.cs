@@ -2,7 +2,7 @@
 using System.IO;
 using Microsoft.Extensions.Configuration;
 
-namespace ConsoleApp3
+namespace SpotifyAPIExample
 {
     class Program
     {
